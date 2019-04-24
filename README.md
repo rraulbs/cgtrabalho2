@@ -6,6 +6,8 @@ link: https://rraulbs.github.io/cgtrabalho2/
 
 Comandos (teclado):
 
+https://user-images.githubusercontent.com/16651018/56626258-5d78f580-6617-11e9-8d9d-8677a8742a43.jpeg
+
 down_arrow (seta para baixo):Ativa a função de desenhar polígonos, clique uma vez (botão esquerdo do mouse) para adicionar um vértice, e duas vezes para fechar o polígono.
 
 up_arrow (seta para cima): Ativa a função de desenhar raios, clique uma vez e segure (botão esquerdo do mouse) para adicionar um vértice, ao soltar o clique o raio é fixado na útilma posíção que se encontrava o mouse.
