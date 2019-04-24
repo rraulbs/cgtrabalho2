@@ -2,7 +2,7 @@
 
 Trabalho 2
 Computação Gráfica - UFRJ
-link: https://rraulbs.github.io/https-rraulbs.github.io-cgtrabalho2-/
+link: https://rraulbs.github.io/cgtrabalho2/
 
 Comandos (teclado):
 
