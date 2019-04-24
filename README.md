@@ -3,6 +3,7 @@
 Trabalho 2
 Computação Gráfica - UFRJ
 link: https://rraulbs.github.io/cgtrabalho2/
+
 Comandos (teclado):
 
 down_arrow (seta para baixo):Ativa a função de desenhar polígonos, clique uma vez (botão esquerdo do mouse) para adicionar um vértice, e duas vezes para fechar o polígono.
